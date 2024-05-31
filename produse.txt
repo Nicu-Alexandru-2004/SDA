@@ -1,0 +1,40 @@
+01/01/2006,1,Laptop,Electronice,Notebook,1200.0,5,Romania,Bucuresti
+02/10/2009,2,Telefon,Electronice,Smartphone,800.0,10,Franta,Paris
+03/03/2006,3,Cafetiera,Electrocasnice,Bucatarie,50.0,15,Romania,Cluj
+04/01/2002,4,Televizor,Electronice,LED,1000.0,8,Germania,Berlin
+05/12/2012,5,Cana,Bucatarie,Accesorii,10.0,20,Spania,Madrid
+06/03/2002,6,Bluza,Imbracaminte,Casual,35.0,30,Italia,Roma
+07/05/2005,7,Mouse,Electronice,Periferice,20.0,25,Romania,Timisoara
+08/07/2000,8,Ceas,Accesorii,Fashion,150.0,12,Franta,Lyon
+09/01/2015,9,Cort,Outdoor,Camping,80.0,5,Italia,Milano
+10/11/2020,10,Masina_de_spalat,Electrocasnice,Gospodarie,400.0,3,Spania,Barcelona
+11/06/2020,11,Casti,Electronice,Audio,70.0,15,Germania,Munchen
+12/09/2023,12,Blu-ray Player,Electronice,Media,150.0,7,Franta,Marsilia
+13/04/2003,13,Espressor,Electrocasnice,Bucatarie,90.0,12,Italia,Florenta
+14/02/2022,14,Geanta,Moda,Accesorii,45.0,18,Spania,Valencia
+15/09/2022,15,Tableta,Electronice,Tablete,300.0,6,Romania,Iasi
+16/12/2000,16,Ochelari de soare,Moda,Accesorii,25.0,20,Franta,Nisa
+17/10/2000,17,Laptop Gaming,Electronice,Notebook,1800.0,3,Germania,Hamburg
+18/05/2015,18,Scaun pliant,Outdoor,Camping,60.0,10,Italia,Veneto
+19/02/2012,19,Monitor,Electronice,Periferice,250.0,8,Spania,Sevilia
+20/06/2022,20,Aspirator,Electrocasnice,Gospodarie,120.0,5,Romania,Brasov
+01/05/2023,21,Smartwatch,Electronice,Accesorii,150.00,3,Statele Unite,New York
+02/05/2003,22,Tabletă,Electronice,Tablete,400.00,6,Canada,Toronto
+03/06/2004,23,Cameră foto DSLR,Electronice,Foto,800.00,2,Germania,Munchen
+04/06/2023,24,Router,Electronice,Rețea,120.00,4,Spania,Barcelona
+05/07/2023,25,Imprimantă,Electronice,Periferice,250.00,5,Italia,Milano
+06/07/2014,26,Drone,Electronice,Accesorii,600.00,1,Elvetia,Geneva
+07/08/2023,27,Smart TV,Electronice,Televizoare,1000.00,2,Regatul Unit,Londra
+08/08/2023,28,Consolă de jocuri,Electronice,Console,350.00,3,Franța,Paris
+09/09/2022,29,E-book reader,Electronice,Accesorii,80.00,10,Olanda,Utrecht
+10/09/2006,30,Mouse pad,Electronice,Periferice,15.00,10,Belgia,Bruxelles
+01/01/2010,31,Laptop,Electronice,Notebook,1400.00,8,Romania,Bucuresti
+02/01/2002,32,Telefon,Electronice,Smartphone,1000.00,20,Franta,Paris
+03/01/2004,33,Mouse,Electronice,Periferice,30.00,15,Romania,Timisoara
+04/02/2020,34,Tastatura,Electronice,Periferice,70.00,10,Spania,Madrid
+05/02/2024,35,Monitor,Electronice,Periferice,400.00,10,Italia,Roma
+06/03/2002,36,Blu-ray Player,Electronice,Media,160.00,3,Germania,Berlin
+07/03/2014,37,Căști,Electronice,Accesorii,100.00,12,Elvetia,Zurich
+08/03/2015,38,Router,Electronice,Rețea,110.00,14,Austria,Vienna
+09/04/2000,39,Consolă de jocuri,Electronice,Console,350.00,10,Olanda,Amsterdam
+10/04/2016,40,Boxe,Electronice,Audio,200.00,4,Suedia,Stockholm
